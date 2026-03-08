@@ -4,17 +4,14 @@ collection:
 manifest:
   
 metadata:
-  - Subject
-  - Date
-  - Language
-  - Genre
-featured:
   - Title
   - Creator
   - Date
   - Publisher
   - Abstract
   - Description
+featured:
+  - https://collections.library.yale.edu/manifests/10964717
 search:
   page:
     title: Search
