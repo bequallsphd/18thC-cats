@@ -2,56 +2,55 @@ title: Cat site 2.0
 collection:
   
 manifest:
-- https://collections.library.yale.edu/manifests/16192501
-- https://collections.library.yale.edu/manifests/10964800
-- https://collections.library.yale.edu/manifests/10977605
-- https://collections.library.yale.edu/manifests/17324467
-- https://collections.library.yale.edu/manifests/10967936
-- https://collections.library.yale.edu/manifests/10713305
-- https://collections.library.yale.edu/manifests/10714395
-- https://collections.library.yale.edu/manifests/15813743
-- https://collections.library.yale.edu/manifests/17124952
-- https://collections.library.yale.edu/manifests/33245638
-- https://collections.library.yale.edu/manifests/10723355
-- https://collections.library.yale.edu/manifests/10731109
-- https://collections.library.yale.edu/manifests/15813411
-- https://collections.library.yale.edu/manifests/17124835
-- https://collections.library.yale.edu/manifests/10697243
-- https://collections.library.yale.edu/manifests/17469273
-- https://collections.library.yale.edu/manifests/17469313
-- https://collections.library.yale.edu/manifests/16193051
-- https://collections.library.yale.edu/manifests/16193054
-- https://collections.library.yale.edu/manifests/15813434
-- https://collections.library.yale.edu/manifests/10952835
-- https://collections.library.yale.edu/manifests/10732720
-- https://collections.library.yale.edu/manifests/15813753
-- https://collections.library.yale.edu/manifests/16193053
-- https://collections.library.yale.edu/manifests/10713306
-- https://collections.library.yale.edu/manifests/10952800
-- https://collections.library.yale.edu/manifests/10714647
-- https://collections.library.yale.edu/manifests/10714579
-- https://collections.library.yale.edu/manifests/10723596
-- https://collections.library.yale.edu/manifests/10728090
-- https://collections.library.yale.edu/manifests/11134640
-- https://collections.library.yale.edu/manifests/16824678
-- https://collections.library.yale.edu/manifests/11134641
-- https://collections.library.yale.edu/manifests/10732548
-- https://collections.library.yale.edu/manifests/16733278
-- https://collections.library.yale.edu/manifests/11134739
-- https://collections.library.yale.edu/manifests/10980502
-- https://collections.library.yale.edu/manifests/10731240
-- https://collections.library.yale.edu/manifests/15810055
-- https://collections.library.yale.edu/manifests/15810056
-- https://collections.library.yale.edu/manifests/33114388
-- https://collections.library.yale.edu/manifests/15813698
-- https://collections.library.yale.edu/manifests/10952799
-- https://collections.library.yale.edu/manifests/10977604
-- https://collections.library.yale.edu/manifests/10732494
-- https://collections.library.yale.edu/manifests/10715775
-- https://collections.library.yale.edu/manifests/10728173
-- https://collections.library.yale.edu/manifests/10939129
-- https://collections.library.yale.edu/manifests/10728413
-  
+  - https://collections.library.yale.edu/manifests/16192501
+  - https://collections.library.yale.edu/manifests/10964800
+  - https://collections.library.yale.edu/manifests/10977605
+  - https://collections.library.yale.edu/manifests/17324467
+  - https://collections.library.yale.edu/manifests/10967936
+  - https://collections.library.yale.edu/manifests/10713305
+  - https://collections.library.yale.edu/manifests/10714395
+  - https://collections.library.yale.edu/manifests/15813743
+  - https://collections.library.yale.edu/manifests/17124952
+  - https://collections.library.yale.edu/manifests/33245638
+  - https://collections.library.yale.edu/manifests/10723355
+  - https://collections.library.yale.edu/manifests/10731109
+  - https://collections.library.yale.edu/manifests/15813411
+  - https://collections.library.yale.edu/manifests/17124835
+  - https://collections.library.yale.edu/manifests/10697243
+  - https://collections.library.yale.edu/manifests/17469273
+  - https://collections.library.yale.edu/manifests/17469313
+  - https://collections.library.yale.edu/manifests/16193051
+  - https://collections.library.yale.edu/manifests/16193054
+  - https://collections.library.yale.edu/manifests/15813434
+  - https://collections.library.yale.edu/manifests/10952835
+  - https://collections.library.yale.edu/manifests/10732720
+  - https://collections.library.yale.edu/manifests/15813753
+  - https://collections.library.yale.edu/manifests/16193053
+  - https://collections.library.yale.edu/manifests/10713306
+  - https://collections.library.yale.edu/manifests/10952800
+  - https://collections.library.yale.edu/manifests/10714647
+  - https://collections.library.yale.edu/manifests/10714579
+  - https://collections.library.yale.edu/manifests/10723596
+  - https://collections.library.yale.edu/manifests/10728090
+  - https://collections.library.yale.edu/manifests/11134640
+  - https://collections.library.yale.edu/manifests/16824678
+  - https://collections.library.yale.edu/manifests/11134641
+  - https://collections.library.yale.edu/manifests/10732548
+  - https://collections.library.yale.edu/manifests/16733278
+  - https://collections.library.yale.edu/manifests/11134739
+  - https://collections.library.yale.edu/manifests/10980502
+  - https://collections.library.yale.edu/manifests/10731240
+  - https://collections.library.yale.edu/manifests/15810055
+  - https://collections.library.yale.edu/manifests/15810056
+  - https://collections.library.yale.edu/manifests/33114388
+  - https://collections.library.yale.edu/manifests/15813698
+  - https://collections.library.yale.edu/manifests/10952799
+  - https://collections.library.yale.edu/manifests/10977604
+  - https://collections.library.yale.edu/manifests/10732494
+  - https://collections.library.yale.edu/manifests/10715775
+  - https://collections.library.yale.edu/manifests/10728173
+  - https://collections.library.yale.edu/manifests/10939129
+  - https://collections.library.yale.edu/manifests/10728413
 metadata:
   - Title
   - Creator
