@@ -1,4 +1,8 @@
+This is an attempt to use the Canopy IIIF template to create a in-progress repository of old cat memes. There are more things that need to be dealt with, including this readme, at the later time, thanks for understanding.
+
 # Canopy Template
+
+
 
 This repository offers a trimmed down starting point for new Canopy IIIF projects. When you need deeper documentation, examples, or release notes, vist the main project at https://canopy-iiif.github.io/app/.
 
