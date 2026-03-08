@@ -2,16 +2,16 @@ title: Cat site 2.0
 collection:
     - https://bequallsphd.github.io/catdata/lwl-cats-collection-basic.json
 manifest:
-
+    - https://collections.library.yale.edu/manifests/10964717
 metadata:
-  - Title
-  - Creator
-  - Date
-  - Publisher
-  - Abstract
-  - Description
+      - Title
+      - Creator
+      - Date
+      - Publisher
+      - Abstract
+      - Description
 featured:
-  - https://collections.library.yale.edu/manifests/10964717
+      - https://collections.library.yale.edu/manifests/10964717
 search:
   page:
     title: Search
@@ -36,5 +36,5 @@ search:
         - tagging
 theme:
   appearance: light
-  accentColor: indigo
+  accentColor: violet
   grayColor: slate
